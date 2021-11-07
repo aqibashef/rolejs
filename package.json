@@ -1,6 +1,6 @@
 {
   "name": "rolejs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "this library will implement role based auth for nodejs frameworks",
   "main": "index.js",
   "scripts": {
