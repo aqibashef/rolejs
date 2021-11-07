@@ -1,0 +1,19 @@
+{
+  "name": "rolejs",
+  "version": "1.0.0",
+  "description": "this library will implement role based auth for nodejs frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqibashef/rolejs.git"
+  },
+  "author": "Aqib Ashef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqibashef/rolejs/issues"
+  },
+  "homepage": "https://github.com/aqibashef/rolejs#readme"
+}
