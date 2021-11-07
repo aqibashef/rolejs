@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aqibashef/rolejs/issues"
   },
-  "homepage": "https://github.com/aqibashef/rolejs#readme"
+  "homepage": "https://github.com/aqibashef/rolejs#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
